@@ -15,7 +15,7 @@
 5.用AS调试看 jsw log
 
 
-# fastgame
+# fastgame 华为快游戏
 1.adb查看log                adb logcat -s jsLog
 
 2.使用华为快应用助手将包安装到华为手机
