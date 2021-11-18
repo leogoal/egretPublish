@@ -8,7 +8,7 @@
 
 2.nodejs打包，打包过程可能会存在内存不足问题 需要设置下 setx NODE_OPTIONS --max_old_space_size=4096
 
-3.更新版本-可能需要更换下分包名
+3.更新版本，建议将分包名重新命名下
 
 4.测试包存放手机的目录：Android\data\com.nearme.instant.platform\files\subPkg
 
